@@ -447,27 +447,11 @@ transform: rotate(360deg);
   overflow-y: initial;
 }
 #mlb2-1519988.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow button {
-  background-color: #172e2e !important;
-  border-color: #172e2e;
-  border-style: solid;
-  border-width: 2px;
-  border-radius: 4px;
-  box-shadow: none;
-  color: #ffffff !important;
   cursor: pointer;
-  font-family: 'Inter', sans-serif;
-  font-size: 14px !important;
-  font-weight: 700;
-  line-height: 20px;
-  margin: 0 !important;
-  padding: 10px !important;
   width: 100%;
   height: auto;
 }
-#mlb2-1519988.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow button:hover {
-  background-color: #333333 !important;
-  border-color: #333333 !important;
-}
+
 #mlb2-1519988.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow input[type="checkbox"] {
   box-sizing: border-box;
   padding: 0;
