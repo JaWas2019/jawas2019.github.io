@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://python.langchain.com/en/latest/modules/prompts/prompt_templates.html</loc>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://python.langchain.com/en/latest/modules/prompts/prompt_templates/getting_started.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://python.langchain.com/en/latest/modules/prompts/prompt_templates/how_to_guides.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://python.langchain.com/en/latest/modules/prompts/prompt_templates/examples/connecting_to_a_feature_store.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://python.langchain.com/en/latest/modules/prompts/prompt_templates/examples/custom_prompt_template.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://python.langchain.com/en/latest/modules/prompts/prompt_templates/examples/few_shot_examples.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://python.langchain.com/en/latest/modules/prompts/prompt_templates/examples/partial.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://python.langchain.com/en/latest/modules/prompts/prompt_templates/examples/prompt_serialization.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://python.langchain.com/en/latest/modules/prompts/chat_prompt_template.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://python.langchain.com/en/latest/modules/prompts/example_selectors.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://python.langchain.com/en/latest/modules/prompts/example_selectors/examples/custom_example_selector.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://python.langchain.com/en/latest/modules/prompts/example_selectors/examples/length_based.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://python.langchain.com/en/latest/modules/prompts/example_selectors/examples/mmr.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://python.langchain.com/en/latest/modules/prompts/example_selectors/examples/ngram_overlap.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://python.langchain.com/en/latest/modules/prompts/example_selectors/examples/similarity.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://python.langchain.com/en/latest/modules/prompts/output_parsers.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://python.langchain.com/en/latest/modules/prompts/output_parsers/getting_started.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://python.langchain.com/en/latest/modules/prompts/output_parsers/examples/comma_separated.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://python.langchain.com/en/latest/modules/prompts/output_parsers/examples/output_fixing_parser.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://python.langchain.com/en/latest/modules/prompts/output_parsers/examples/pydantic.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://python.langchain.com/en/latest/modules/prompts/output_parsers/examples/retry.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://python.langchain.com/en/latest/modules/prompts/output_parsers/examples/structured.html</loc>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
